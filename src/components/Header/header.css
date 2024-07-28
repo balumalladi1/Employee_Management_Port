@@ -1,0 +1,48 @@
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap:20px;
+    height:70px;
+    margin-right:10%;
+    margin-left:10%;
+    box-shadow: 1px 1px 2px ;
+    cursor: pointer;
+}
+
+.header-section1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:20px;
+}
+
+.header-section1 img{
+    width:70px;
+    height:40px;
+    align-self: center;
+    padding-left:10px;
+}
+
+.header-section1 p{
+    font-size:18px;
+    font-family:"Roboto";
+    font-weight:500;
+    align-self: center;
+}
+
+.header-section2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: center;
+    padding-right:20px;
+    gap:20px;
+}
+
+.header-section2 p{
+    font-size:18px;
+    font-family:"Roboto";
+    font-weight:500;
+    align-self: center;
+}

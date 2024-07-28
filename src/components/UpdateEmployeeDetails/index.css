@@ -1,0 +1,53 @@
+div {
+    
+    font-family: Arial, sans-serif;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+}
+
+
+thead {
+    background-color: #f4f4f4;
+}
+
+th {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    color: #333;
+}
+
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    color: #666;
+}
+
+
+
+
+
+p {
+    font-size: 16px;
+}
+
+p.error {
+    color: red;
+    font-weight: bold;
+}
+
+p.loading {
+    color: #555;
+}

@@ -1,0 +1,144 @@
+
+
+.container{
+    margin-left:10%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-right:10%;
+    height:80vh;
+    background-color: seagreen;
+    margin-top:10px;
+  
+}
+
+.sub-container{
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    gap:20px;
+  
+    padding-left:10px;
+}
+
+.sub-container p{
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.sub-container input{
+    width:20vw;
+    height:20px;
+    align-self: center;
+}
+
+.sub-container1{
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    gap:20px;
+   
+    padding-left:10px;
+}
+
+.sub-container1 p{
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.sub-container1 input{
+    width:20vw;
+    height:20px;
+    align-self: center;
+    margin-left: 33px;
+}
+
+.sub-container2{
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    padding-left:10px;
+}
+
+.sub-container2 p{
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.sub-container2 select{
+    width:10vw;
+    height:30px;
+    align-self: center;
+    margin-left: 8px;
+}
+
+.sub-container4{
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    padding-left:10px;
+}
+
+.sub-container4 p{
+    font-family: "Roboto";
+    font-size: 17px;
+    
+}
+
+.sub-container4 input{
+    margin-left: 8px;
+    width:25px;
+    margin-left:40px;
+}
+
+.male{
+    gap:24px;
+}
+
+
+.sub-container5{
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    padding-left:10px;
+}
+
+.sub-container5 p{
+    font-family: "Roboto";
+    font-size: 17px;
+    
+}
+
+.sub-container5 input{
+    margin-left: 8px;
+    width:25px;
+    margin-left:40px;
+}
+
+.sub-container6{
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    padding-left:10px;
+    font-family: "Roboto";
+}
+
+
+.sub-container6 input{
+    margin-left: 8px;
+    margin-left:40px;
+    height:30px;
+    align-self: center;
+    padding:10px;
+    font-family: "Roboto";
+    padding-top:15px;
+}
+
+.button{
+    margin-left:30px;
+    padding:10px;
+    width:100px;
+    border-radius:20px;
+    
+    border-style: none;
+}

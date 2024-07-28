@@ -1,0 +1,62 @@
+.Login-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:95vh;
+    gap:60px;
+}
+
+.Second-container{
+    display: flex;
+    flex-direction: column;
+    width:25vw;
+    height:70vh;
+    padding:20px;
+    box-shadow: 0 2px 4px 4px rgba(0.1, 0.1, 0.1, 0.1);
+    border-radius:10px;
+}
+
+.Second-container-sub-container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top:50px;
+}
+
+.Second-container-sub-container1 p{
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.Second-container-sub-container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.Second-container-sub-container2 p{
+    font-size:16px;
+    font-weight:bold;
+    font-family: "Roboto";
+}
+
+.Second-container-sub-container2 input {
+    width:45vh;
+    height:25px;
+    background-color: lightgray;
+    border-style:none;
+}
+
+.Second-container-sub-container2 button{
+    margin-top:25px;
+    margin-left:50px;
+    width:15vw;
+    height:40px;
+    color:white;
+    background-color: blue;
+    border-radius:10px;
+    border-style:none;
+    font-size:18px;
+}

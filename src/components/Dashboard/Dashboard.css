@@ -1,0 +1,23 @@
+
+
+.first{
+    display: flex;
+    flex-direction: column;
+    margin-left:10%;
+    margin-right:10%;
+    justify-content: center;
+    align-items: center;
+    margin-top:30px;
+}
+
+.first img {
+    width:70vw;
+    height:50vh;
+}
+
+.first p{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+   
+}
